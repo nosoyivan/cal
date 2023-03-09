@@ -17,8 +17,6 @@
         title: "Project 3",
         start: new Date(2023, 2, 10),
         comment: "info for Project #",
-    },
-
-
-]
+    }
+  ]
 }
