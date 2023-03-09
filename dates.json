@@ -1,25 +1,23 @@
-
 {
-  "events":
- [
-  {
-    "title": "First Project",
-    "allDay": true,
-    "start": "new Date(2023, 2, 1)",
-    "end": "new Date(2023, 2, 11)",
-    "comment": "info for Project #",
-  },
-  {
-    "title": "Second Project",
-    "allDay": false,
-    "start": "new Date(2023, 2, 3)",
-    "comment": "info for Project #"
-  },
-  {
-    "title": "The Third Project",
-    "allDay": false,
-    "start": "new Date(2023, 2, 10)",
-    "comment": "info for Project #",
-  }
- ]
+  "events": [
+    {
+      "title": "First Project",
+      "allDay": true,
+      "start": "2023-03-01",
+      "end": "2023-03-11",
+      "comment": "info for Project #"
+    },
+    {
+      "title": "Second Project",
+      "allDay": false,
+      "start": "2023-03-03",
+      "comment": "info for Project #"
+    },
+    {
+      "title": "The Third Project",
+      "allDay": false,
+      "start": "2023-03-10",
+      "comment": "info for Project #"
+    }
+  ]
 }
